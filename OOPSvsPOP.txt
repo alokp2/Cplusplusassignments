@@ -1,0 +1,5 @@
+Difference between the Object oriented programming vs procedure object Programming
+
+Oops is object oriented while POP is structure oriented. Oops uses inheritance while POP does not. 
+OOPs uses data hiding while Pops do not have data hiding. Overall Object oriented programming is about enhancing or working with real world object 
+while the procedural object programming is about enhancing the functions of the program.
